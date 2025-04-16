@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,7 +10,7 @@ body {
   background-color: #fff;
 }
 
-/* Header */
+
 header {
   display: flex;
   justify-content: space-between;
@@ -55,7 +55,7 @@ nav a {
   color: #1a1a1a;
 }
 
-/* Hero Section */
+
 .hero {
   padding: 60px;
 }
@@ -79,7 +79,7 @@ nav a {
   color: #333;
 }
 
-/* Hero Image */
+
 .hero-image {
   flex: 1;
   position: relative;
@@ -104,7 +104,7 @@ nav a {
   border-radius: 10px;
 }
 
-/* Testimonial */
+
 .testimonial {
   position: absolute;
   top: 30px;
@@ -127,7 +127,7 @@ nav a {
   color: #999;
 }
 
-/* Features Section */
+
 .features {
   display: flex;
   justify-content: space-around;
